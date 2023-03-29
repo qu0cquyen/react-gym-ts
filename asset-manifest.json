@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-gym-ts/static/css/main.91615ede.css",
+    "main.js": "/react-gym-ts/static/js/main.621f8d73.js",
+    "static/js/787.0e66f61e.chunk.js": "/react-gym-ts/static/js/787.0e66f61e.chunk.js",
+    "static/media/image4.png": "/react-gym-ts/static/media/image4.2d1e494f729dadf8e1ef.png",
+    "static/media/image6.png": "/react-gym-ts/static/media/image6.3e4b96cb1a61baf154be.png",
+    "static/media/image3.png": "/react-gym-ts/static/media/image3.c175348892ea4f0aa60c.png",
+    "static/media/image2.png": "/react-gym-ts/static/media/image2.e94f50c411af217c548e.png",
+    "static/media/image5.png": "/react-gym-ts/static/media/image5.198f84b59b230ce3e6b5.png",
+    "static/media/image1.png": "/react-gym-ts/static/media/image1.fa9e1496acf9cac66c12.png",
+    "static/media/HomePageGraphic.png": "/react-gym-ts/static/media/HomePageGraphic.73a6d645a25fd03b34af.png",
+    "static/media/BenefitsPageGraphic.png": "/react-gym-ts/static/media/BenefitsPageGraphic.feee8fadffdda6f5f65a.png",
+    "static/media/ContactUsPageGraphic.png": "/react-gym-ts/static/media/ContactUsPageGraphic.cb6b05e82d856d0e1f22.png",
+    "static/media/HomePageText.png": "/react-gym-ts/static/media/HomePageText.501df4a501b9192320fd.png",
+    "index.html": "/react-gym-ts/index.html",
+    "main.91615ede.css.map": "/react-gym-ts/static/css/main.91615ede.css.map",
+    "main.621f8d73.js.map": "/react-gym-ts/static/js/main.621f8d73.js.map",
+    "787.0e66f61e.chunk.js.map": "/react-gym-ts/static/js/787.0e66f61e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91615ede.css",
+    "static/js/main.621f8d73.js"
+  ]
+}
